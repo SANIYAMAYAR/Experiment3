@@ -11,9 +11,8 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView;
 
     int[] images = {
-            R.drawable.images1,
-            R.drawable.images2,
-            R.drawable.image3,
+            R.drawable.image1,
+            R.drawable.image2,
     };
 
     int currentIndex = 0;
